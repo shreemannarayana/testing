@@ -1,0 +1,7 @@
+#This is a comment
+
+#Excluding the passwd.txt
+passwd.txt
+
+
+#example of a wildcard *.extension
